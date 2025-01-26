@@ -5,6 +5,7 @@ Problem statements.
 26/01/2025
 
   DSA:-
+   leetcode- 169. Majority Element
 
 
   OOPS:-
@@ -26,7 +27,7 @@ Coding platform used.
 Approach and solution explanation.
 
 DSA:-
-
+used brute force approach to find majority element in the array
 
 OOPS:-
 practiced basic concepts of inheritence and methods passing via inheritance
