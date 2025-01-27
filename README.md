@@ -36,4 +36,33 @@ DBMS:-
  Used Select,where & AND clause to select every coulumn from the table 
 
 
+ 27/01/2025
+
+DSA:- leetcode- 88. Merge Sorted Array
+
+OOPS:-
+
+  (https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true)
+
+DBMS:-
+
+  (https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true)
+  
+Coding platform used.
+
+  DSA:- Leetcode- https://leetcode.com/u/ahlawat000
+
+  DBMS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
+
+  OOPS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
+
+Approach and solution explanation.
+
+  DSA:- used divide & conquer approach to find to merge 2 sorted array and sorting after they are merged
+
+  OOPS:- practiced basic concepts of abstraction and implementing abstract methods by help of inheritance
+
+  DBMS:- Used Select,where & AND clause to select every coulumn from the table
+
+
 
