@@ -38,7 +38,7 @@ DBMS:-
 
  27/01/2025
 
-DSA:- leetcode- 88. Merge Sorted Array
+DSA:-  88. Merge Sorted Array
 
 OOPS:-
 
@@ -63,6 +63,36 @@ Approach and solution explanation.
   OOPS:- practiced basic concepts of abstraction and implementing abstract methods by help of inheritance
 
   DBMS:- Used Select,where & AND clause to select every coulumn from the table
+
+28/01/2025
+
+DSA:-  9. Palindrome No.
+
+OOPS:-
+
+  https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true
+
+DBMS:-
+
+  https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
+  https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true
+  
+Coding platform used.
+
+  DSA:- Leetcode- https://leetcode.com/u/ahlawat000
+
+  DBMS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
+
+  OOPS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
+
+Approach and solution explanation.
+
+  DSA:- used divide & conquer approach to find to merge 2 sorted array and sorting after they are merged
+
+  OOPS:- practiced basic concepts of imterface and implementing method ovverriding by help of interfaces
+
+  DBMS:- Used Select,where & AND clause to select distinct coulumn from the table
+
 
 
 
