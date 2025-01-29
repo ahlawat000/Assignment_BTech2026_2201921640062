@@ -117,7 +117,7 @@ Coding platform used.
 
 Approach and solution explanation.
 
-  DSA:- used divide & conquer approach to find to merge 2 sorted array and sorting after they are merged
+  DSA:- used divide & conquer approach to solve rotated sorted array search by using fecursive techniques.
 
   OOPS:- practiced basic concepts of polymorphism and implementing method ovverriding by help of @Override
 
