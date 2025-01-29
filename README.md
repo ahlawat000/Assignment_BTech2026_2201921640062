@@ -97,6 +97,7 @@ Approach and solution explanation.
 29/01/2025
 
 DSA:-  
+  33. Search in Rotated Array.
 
 OOPS:-
 
