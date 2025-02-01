@@ -188,13 +188,6 @@ DSA:-
 
 OOPS:-
 
-31/01/2025
-
-DSA:-  
-  136. single number
-
-OOPS:-
-
 https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true
 
 DBMS:-
@@ -211,25 +204,6 @@ Coding platform used.
 
 Approach and solution explanation.
 
-  DSA:- used xor function and recursion approach to solve single number problem.
-
-  OOPS:- practiced basic concepts of polymorphism and implementing method ovverriding by help of super keyword
-
-  DBMS:- Used Select, where & LIKE clause to select distinct coulumn starting from any char
-
-DBMS:-
-
-https://www.hackerrank.com/challenges/weather-observation-station-6/problem?isFullScreen=true
-  
-Coding platform used.
-
-  DSA:- Leetcode- https://leetcode.com/u/ahlawat000
-
-  DBMS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
-
-  OOPS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
-
-Approach and solution explanation.
 
   DSA:- used xor function and recursion approach to solve single number problem.
 
