@@ -184,7 +184,7 @@ Approach and solution explanation.
   01/02/2025
 
 DSA:-  
-  136. single number
+  121. Best time to buy and sell stocks.
 
 OOPS:-
 
@@ -205,7 +205,7 @@ Coding platform used.
 Approach and solution explanation.
 
 
-  DSA:- used xor function and recursion approach to solve single number problem.
+  DSA:- used math functions in arrays to solve buy sell stocks problem.
 
   OOPS:- used instance of keyword to solve yhe problem
 
