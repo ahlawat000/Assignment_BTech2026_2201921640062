@@ -214,7 +214,7 @@ Approach and solution explanation.
    02/02/2025
 
 DSA:-  
-  121. Best time to buy and sell stocks.
+  2965. find missing and repeated value in a array
 
 OOPS:-
 
@@ -235,7 +235,7 @@ Coding platform used.
 Approach and solution explanation.
 
 
-  DSA:- used math functions in arrays to solve buy sell stocks problem.
+  DSA:- used frequency count to solve theproblem.
 
   OOPS:- practiced basic methods and constructors.
 
