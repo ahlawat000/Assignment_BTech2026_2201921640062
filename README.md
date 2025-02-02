@@ -211,6 +211,36 @@ Approach and solution explanation.
 
   DBMS:- Used Select, where & LIKE clause to select distinct coulumn ending from any char
 
+   02/02/2025
+
+DSA:-  
+  121. Best time to buy and sell stocks.
+
+OOPS:-
+
+https://app.programiz.pro/course/practice-java-oop/area-of-rectangle?page=1
+
+DBMS:-
+
+https://www.hackerrank.com/challenges/weather-observation-station-8/problem?isFullScreen=true
+  
+Coding platform used.
+
+  DSA:- Leetcode- https://leetcode.com/u/ahlawat000
+
+  DBMS:- hackerrank:- https://www.hackerrank.com/profile/ahlawatvanshul
+
+  OOPS:- Programiz:- https://programiz.pro
+
+Approach and solution explanation.
+
+
+  DSA:- used math functions in arrays to solve buy sell stocks problem.
+
+  OOPS:- practiced basic methods and constructors.
+
+  DBMS:- Used Select, where & LIKE clause to select distinct coulumn ending from any char
+
 
 
 
